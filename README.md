@@ -53,7 +53,7 @@ This project is an interactive Sales Dashboard created in Microsoft Excel to ana
 | sales_dashboard.png | Dashboard Screenshot |
 
 ## Dashboard Preview
-![Dashboard](Sales_dashboard.png)
+![Dashboard](sales_dashboard.png)
 
 ## Author
 
